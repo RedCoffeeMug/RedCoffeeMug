@@ -1,6 +1,6 @@
-I sometimes do stuff. Working on mods and games.
+Working on Mods and games.
+
 <br>
-really bad webstie: [somecoder1.github.io](https://somecoder1.github.io/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somecoder1&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
