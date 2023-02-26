@@ -1,8 +1,9 @@
 Working on Mods and games.
 
-<br>
+ languages I'm learning or know
+ --
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedCoffeeMug&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedCoffeeMug&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
